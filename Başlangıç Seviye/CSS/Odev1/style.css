@@ -1,0 +1,31 @@
+h2 {
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:palevioletred;
+    text-align: center;
+}
+img{
+    height: 450px;
+}
+#first-logo{
+    height: auto;
+}
+p{
+    text-align: center;
+}
+ul>li, ol>li{
+    text-align: center;
+}
+li{
+    list-style-position:inside;
+}
+h3{
+    text-align: center;
+    color:purple
+}
+a {
+    color: blue
+}
+.ta-left{
+    text-align: left;
+}
