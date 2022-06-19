@@ -1,0 +1,41 @@
+/* CSS stil kodları */
+
+.bg-color{
+    background-color: peachpuff;
+}
+h2{
+    color: purple;
+}
+/*ul {
+    text-align:center;
+}
+ol{
+    text-align: center;
+}*/
+#footer {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: end;
+    font-size: 20px;
+}
+li{
+    list-style-position: inside;
+}
+u{
+    font-size: 12px;
+}
+.rcorner{
+    border-radius: 25% 25% 25% 25%;
+    background-color: purple;
+    width: 205px;
+    padding:0px
+}
+.box{
+    width: 800px;
+    height:300px;
+    text-align:left;
+    margin:auto;
+    text-align: left;
+}
+.fs-12{
+    font-size: 12px;
+}
