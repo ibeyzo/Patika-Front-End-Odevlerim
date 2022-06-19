@@ -1,0 +1,76 @@
+img{
+    margin-bottom: -8px;
+}
+/* img konumlandırıldı */
+.box-1{
+    height:60px;
+    width:1210px;
+    background-color: rgb(240, 235, 235);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2px;
+    margin-top: -10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* kutu1 oluşturuldu */
+#input-1{
+    width: 310px;
+}
+/* input boyutlandırıldı */
+.box-2{
+    height:75px;
+    width:462px;
+    background-color: #7ee5da;
+    margin: 1px 1px 0px 8px;
+    float:left;
+}
+/* kutu2 oluşturuldu */
+.box-3{
+    height: 75px;
+    width:216px;
+    background-color: #70ccc2;
+    float:left;
+    margin: 1px 1px 0px 1px
+}
+/* kutu3 oluşturuldu */
+.box-4{
+    height: 75px;
+    width: 528px;
+    background-color: #5cb1a7;
+    float:right;
+    margin: 1px 7px 0px 1px
+}
+/* kutu4 oluşturuldu */
+.text-1{
+    text-align:center;
+    text-decoration-color: blue;
+    margin: 10px;
+}
+/* yazı1 oluşturuldu */
+.text-2{
+    text-align: center;
+    text-decoration-color: blue;
+    font-size: small;
+    margin: 5px;
+}
+/* yazı2 oluşturuldu */
+.text-3{
+    text-align: center;
+    text-decoration-color: blue;
+    font-size: small;
+    margin: 0px;
+}
+/* yazı3 oluşturuldu */
+#input-3{
+    width: 70px;
+    text-align: center;
+}
+/* input3 düzenlendi */
+footer{
+    text-align: center;
+    float:right;
+    font-size: small;
+    margin: 5px 546px 0px 594px;
+    width: 170px
+}
